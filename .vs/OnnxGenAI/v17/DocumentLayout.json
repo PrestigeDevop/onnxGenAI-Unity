@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity Projects\\VFX\\OnnxGenAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF25DD3C-4BA7-9623-021E-AB44B24B76D3}|NewAssembly.csproj|f:\\unity projects\\vfx\\onnxgenai\\assets\\llm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF25DD3C-4BA7-9623-021E-AB44B24B76D3}|NewAssembly.csproj|solutionrelative:assets\\llm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF25DD3C-4BA7-9623-021E-AB44B24B76D3}|NewAssembly.csproj|F:\\Unity Projects\\VFX\\OnnxGenAI\\assets\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF25DD3C-4BA7-9623-021E-AB44B24B76D3}|NewAssembly.csproj|solutionrelative:assets\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF25DD3C-4BA7-9623-021E-AB44B24B76D3}|NewAssembly.csproj|F:\\Unity Projects\\VFX\\OnnxGenAI\\Assets\\checkpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF25DD3C-4BA7-9623-021E-AB44B24B76D3}|NewAssembly.csproj|solutionrelative:Assets\\checkpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LLM.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\VFX\\OnnxGenAI\\Assets\\LLM.cs",
+              "RelativeDocumentMoniker": "Assets\\LLM.cs",
+              "ToolTip": "F:\\Unity Projects\\VFX\\OnnxGenAI\\Assets\\LLM.cs*",
+              "RelativeToolTip": "Assets\\LLM.cs*",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAD4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:01:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\VFX\\OnnxGenAI\\Assets\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Test.cs",
+              "ToolTip": "F:\\Unity Projects\\VFX\\OnnxGenAI\\Assets\\Test.cs",
+              "RelativeToolTip": "Assets\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:04:35.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "checkpath.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\VFX\\OnnxGenAI\\Assets\\checkpath.cs",
+              "RelativeDocumentMoniker": "Assets\\checkpath.cs",
+              "ToolTip": "F:\\Unity Projects\\VFX\\OnnxGenAI\\Assets\\checkpath.cs",
+              "RelativeToolTip": "Assets\\checkpath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:07:39.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
